@@ -18,12 +18,12 @@
 .container-fluid{
 background-color: orangered;
 color: white;
-margin-top: 80px;
-padding-top: 80px;
+margin-top: 10px;
+padding-top: 10px;
 padding-bottom: 10px;
 padding-left: 10px;
 padding-right: 10px;
-height: 800px;
+height: auto;
 width: auto;
 }
 
@@ -31,15 +31,17 @@ width: auto;
 .card{
   background-color: white;
 color: black;
-  width: 300px;
+  width: 500px;
+  height: 450px;
 border: 5px solid black;
-padding-top: 100px;
-padding-left: 300px;
-padding-right: 300px;
-padding-bottom: 100px;
-margin-top: 100px;
-margin-left: 600px;
-margin-right: 250px;
+padding-top: 10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+margin-top: 20px;
+margin-left: 450px;
+margin-right: 25px;
+margin-bottom: 20px;
 text-align: center;
 }
 
